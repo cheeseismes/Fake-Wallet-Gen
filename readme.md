@@ -1,4 +1,4 @@
-This was created for fun it litterally just prints random string.
+This was created for fun it litterally just prints random strings.
 
 To install run: "pip install -r requirements.txt"
 
